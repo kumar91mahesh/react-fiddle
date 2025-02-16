@@ -30,3 +30,17 @@
 - create a route for cart
 - add a hyperlink to header component for cart 
 
+# Type of Testing (devloper)
+- Unit testing
+- Intigration Testing
+- End to End  Testing - e2e
+
+# Setting up Testing in our app
+- Intsall React Testing Library
+- Install jest
+- Install Babel dependancy
+- Configure babel
+- Configure parcel config file to disable default babel transpilation
+- Jest Configuration
+- Install jsdom library
+
